@@ -1,6 +1,5 @@
 // Single Cycle RISC-V Processor Top Module
 
-
 module RISCV_Top(
 
     input clk,
