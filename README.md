@@ -6,8 +6,9 @@ The processor executes instructions in a single clock cycle and was simulated us
 ---
 
 # Architecture
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5decb826-7855-46af-9be2-c78879601a01" />
 
-<img width="668" height="257" alt="architecture" src="https://github.com/user-attachments/assets/06e31ef9-3f0c-4006-9d56-7fc83f721401" />
+
 
 
 # Features
