@@ -43,7 +43,6 @@ module RISCV_Top(
 
     wire Zero;
 
-
     // =========================
     // Program Counter
     // =========================
@@ -144,7 +143,6 @@ module RISCV_Top(
 
     );
 
-
     // =========================
     // ALU
     // =========================
@@ -209,7 +207,6 @@ module RISCV_Top(
         .RD(ReadData)
 
     );
-
 
     // =========================
     // Write Back MUX
